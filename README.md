@@ -1,16 +1,5 @@
                                                            Hi, welcome to my profile👨‍💻
 
- <b>Hobbies:<b/>                      
- 🎮 Games; <br>
- 🏋️‍♀️ Musculação;<br>
- 📚 Leituras;<br>
- 👨‍💻 Codar; <br>
-    
-   
-
-
-
-
 
 <div align="center">
   <a href="https://github.com/Danielborbafs">
