@@ -19,9 +19,9 @@
  
    </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dan-Python" height="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Dan-Python" height="60" width="80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Dan-Python" height="60" width="80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  
+  <img align="center" alt="Dan-Python" height="60" width="80
   ##
   
   <div>
