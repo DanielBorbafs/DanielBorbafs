@@ -16,7 +16,10 @@
   <a href="https://github.com/Danielborbafs">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DanielBorbafs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBorbafs&layout=compact&langs_count=7&theme=dark"/>
- 
+ <br>
+ <br>
+ <br>
+  Skills:
    </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-Python" height="60" width="80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
