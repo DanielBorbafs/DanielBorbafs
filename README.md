@@ -1,9 +1,9 @@
-<div align="center">
+aq<div align="center">
   <img src="https://github.com/DanielBorbafs/assets/blob/main/gifsasuke.gif" alt="Banner">
 </div>
 <h3 align="center">Oi, eu sou o Daniel 👋</h3>
 <p align="center">
-  Sou um estudante de Desenvolvimento de Sistemas em busca de me tornar um desenvolvedor Full Stack.
+  Sou um estudante de Desenvolvimento de Sistemas em busca de me tornar um desenvolvedor FullStack.
 </p>
 <h4 align="center"> 🚀 Habilidades</h4>
 <p align="center">
