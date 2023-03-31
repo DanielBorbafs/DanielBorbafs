@@ -1,4 +1,4 @@
-Welcolme
+
 <div align="center">
   <img src="https://github.com/DanielBorbafs/assets/blob/main/gifsasuke.gif" alt="Banner">
 </div>
