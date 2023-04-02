@@ -15,7 +15,7 @@
 </p>
 <h4 align="center"> 📈 Estatísticas</h4>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielBorbafs&theme=midnight-purple&show_icons=true"/>
+  <img height="159em" src="https://github-readme-stats.vercel.app/api?username=DanielBorbafs&theme=midnight-purple&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBorbafs&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <h4 align="center"> 💼 Contato</h4>
