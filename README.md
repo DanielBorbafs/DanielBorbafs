@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">Oi, eu sou o Daniel 👋</h3>
 <p align="center">
-  Sou um estudante de Desenvolvimento de Sistemas em busca de me tornar um desenvolvedor FullStack!
+  Sou um estudante de Desenvolvimento de Sistemas em busca de me tornar um Desenvolvedor FullStack!
 </p>
 <h4 align="center"> 🚀 Habilidades</h4>
 <p align="center">
