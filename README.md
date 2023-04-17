@@ -16,7 +16,6 @@
   <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   
 </p>
-<h4 align="center"> 📈 Estatísticas</h4>
 <h4 align="center"> 💼 Contato</h4>
 <p align="center">
    <a href = "mailto:dev.danielborba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
