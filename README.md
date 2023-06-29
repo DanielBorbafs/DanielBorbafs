@@ -13,10 +13,12 @@
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 </p>
-<h4 align="center"> 💼 Contato</h4>
+<h4 align="center"> 💼Contato</h4>
 <p align="center">
    <a href = "mailto:dev.danielborba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
+
+/* Atualizar.
 
 
 
