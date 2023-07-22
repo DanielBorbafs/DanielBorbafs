@@ -20,6 +20,3 @@
 
 
 
-
-
-![Snake animation](https://github.com/DanielBorbafs/DanielBorbafs/blob/output/github-contribution-grid-snake.svg)
