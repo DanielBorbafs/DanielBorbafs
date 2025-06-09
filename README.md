@@ -57,7 +57,7 @@ Aqui estão alguns dos projetos que você pode conferir:
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielborbafs&layout=compact&theme=radical"/>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e0a40&height=120&section=footer"/>
