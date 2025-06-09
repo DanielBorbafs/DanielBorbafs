@@ -1,18 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e0a40&height=120&section=header"/>
 <div align="center">  
-  <h1 align="center">Olá, eu sou [Seu Nome]! 👋</h1>
 
 <p align="center">
-  🎯 Analista de Dados em formação • Curioso por tecnologia • Explorador de dados
+  🎯 Analista de Dados • Curioso por tecnologia • Explorador de dados
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 Recém-formado em Análise e Desenvolvimento de Sistemas  
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 - 📊 Estudando para atuar como **Analista de Dados**
-- 📚 Atualmente aprendendo: **Python para análise de dados, SQL, Power BI e estatística**
+- 📚 Atualmente aprendendo: **Python para análise de dados, SQL, Power BI, estatística e aplicações com Machine Learning**
 - 🔍 Explorando dados para encontrar **insights valiosos** e tomar decisões baseadas em dados
 
 ---
